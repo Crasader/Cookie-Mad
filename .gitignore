@@ -45,3 +45,36 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+
+
+*.xcscheme
+
+*.xcuserstate
+
+*.apk
+
+*.class
+
+*.d
+
+*.o
+
+*.a
+
+*.aidl
+
+*.store
+
+*.xcbkptlist
+
+*.obj
+
+*.tlog
+
+*.pdb
+
+
+*.sdf
+
+*.log
+*.suo
