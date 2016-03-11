@@ -78,3 +78,19 @@ Temporary Items
 
 *.log
 *.suo
+
+local/Cookie-Mad/SonarCocosHelperCPP/*
+
+local/Cookie-Mad/proj.win10/*
+
+local/Cookie-Mad/proj.win32/*
+
+local/Cookie-Mad/proj.android/*
+
+local/Cookie-Mad/proj.android-studio/*
+
+local/Cookie-Mad/cocos2d/*
+
+local/Cookie-Mad/proj.win8.1-universal/*
+
+local/Cocos-Helper-master/*
